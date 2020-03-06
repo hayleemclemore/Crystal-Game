@@ -88,7 +88,7 @@ $(document).ready(function(){
     
      $("#yellow").on("click", function() {
         
-        counter = counter + crystals.green.value;
+        counter = counter + crystals.yellow.value;
         console.log(counter);
         $("#counter").text(counter);
     
