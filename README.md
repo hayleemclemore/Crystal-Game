@@ -1,4 +1,4 @@
-# unit-4-game
+# Crystal Game
 Link to play: [Here](https://hayleemclemore.github.io/unit-4-game/)
 
 ### Description
